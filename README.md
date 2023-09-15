@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🎱
 
+meu nome é Gustavo
 
-**zoreiasilva/zoreiasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando no Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização é compartilhamentos dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você entrar  em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+gustavo.castro.silva@escola.pr.gov.br / zoreiacastro2006@gmail.com
+
+@zoreiaa_244
+
+![image](https://github.com/zoreiasilva/zoreiasilva/assets/112400462/823639a5-dce3-401c-b89c-a69a7b781aa9)
